@@ -1,1 +1,1 @@
-# machine-learning-project
+# variational-autoencoder-implementation
